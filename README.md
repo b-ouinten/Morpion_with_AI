@@ -7,5 +7,5 @@ This is a morpion AI-based. The AI was implimented using the concept of trees in
 4. tree depth = 5 
 5. tree depth = as deep as possible.
 
-### A undo-redo system was also implemented. 
+#### A undo-redo system was also implemented. 
 
