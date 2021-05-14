@@ -1,4 +1,4 @@
-This is a morpion AI-based. The AI was implimented using the concept of trees in algorithms.
+This is a morpion AI-based. The AI was implemented using the concept of trees in algorithms.
 
 #### There are five levels of difficulty :
 - level 1 : random
